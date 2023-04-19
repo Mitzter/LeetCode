@@ -1,0 +1,14 @@
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp3.1\PivotIndex.exe
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp3.1\PivotIndex.deps.json
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp3.1\PivotIndex.runtimeconfig.json
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp3.1\PivotIndex.runtimeconfig.dev.json
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp3.1\PivotIndex.dll
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp3.1\PivotIndex.pdb
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\PivotIndex.csproj.AssemblyReference.cache
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\PivotIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\PivotIndex.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\PivotIndex.AssemblyInfo.cs
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\PivotIndex.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\PivotIndex.dll
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\PivotIndex.pdb
+C:\Users\my\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp3.1\PivotIndex.genruntimeconfig.cache
