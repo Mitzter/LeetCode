@@ -1,0 +1,15 @@
+G:\LeetCode\Palindrome\obj\Debug\net6.0\Palindrome.csproj.AssemblyReference.cache
+G:\LeetCode\Palindrome\obj\Debug\net6.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+G:\LeetCode\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfoInputs.cache
+G:\LeetCode\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfo.cs
+G:\LeetCode\Palindrome\obj\Debug\net6.0\Palindrome.csproj.CoreCompileInputs.cache
+G:\LeetCode\Palindrome\bin\Debug\net6.0\Palindrome.exe
+G:\LeetCode\Palindrome\bin\Debug\net6.0\Palindrome.deps.json
+G:\LeetCode\Palindrome\bin\Debug\net6.0\Palindrome.runtimeconfig.json
+G:\LeetCode\Palindrome\bin\Debug\net6.0\Palindrome.dll
+G:\LeetCode\Palindrome\bin\Debug\net6.0\Palindrome.pdb
+G:\LeetCode\Palindrome\obj\Debug\net6.0\Palindrome.dll
+G:\LeetCode\Palindrome\obj\Debug\net6.0\refint\Palindrome.dll
+G:\LeetCode\Palindrome\obj\Debug\net6.0\Palindrome.pdb
+G:\LeetCode\Palindrome\obj\Debug\net6.0\Palindrome.genruntimeconfig.cache
+G:\LeetCode\Palindrome\obj\Debug\net6.0\ref\Palindrome.dll
