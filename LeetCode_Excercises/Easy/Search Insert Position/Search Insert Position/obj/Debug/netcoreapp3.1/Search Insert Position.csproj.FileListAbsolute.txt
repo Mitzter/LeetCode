@@ -1,0 +1,13 @@
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.AssemblyInfo.cs
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.exe
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.deps.json
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.runtimeconfig.json
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.runtimeconfig.dev.json
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.dll
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.pdb
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.dll
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.pdb
+C:\Users\my\source\repos\Search Insert Position\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.genruntimeconfig.cache
