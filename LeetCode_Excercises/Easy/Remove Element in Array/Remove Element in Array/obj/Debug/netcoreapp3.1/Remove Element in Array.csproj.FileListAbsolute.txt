@@ -1,0 +1,14 @@
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\bin\Debug\netcoreapp3.1\Remove Element in Array.exe
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\bin\Debug\netcoreapp3.1\Remove Element in Array.deps.json
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\bin\Debug\netcoreapp3.1\Remove Element in Array.runtimeconfig.json
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\bin\Debug\netcoreapp3.1\Remove Element in Array.runtimeconfig.dev.json
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\bin\Debug\netcoreapp3.1\Remove Element in Array.dll
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\bin\Debug\netcoreapp3.1\Remove Element in Array.pdb
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\obj\Debug\netcoreapp3.1\Remove Element in Array.csproj.AssemblyReference.cache
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\obj\Debug\netcoreapp3.1\Remove Element in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\obj\Debug\netcoreapp3.1\Remove Element in Array.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\obj\Debug\netcoreapp3.1\Remove Element in Array.AssemblyInfo.cs
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\obj\Debug\netcoreapp3.1\Remove Element in Array.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\obj\Debug\netcoreapp3.1\Remove Element in Array.dll
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\obj\Debug\netcoreapp3.1\Remove Element in Array.pdb
+C:\Users\my\source\repos\Remove Element in Array\Remove Element in Array\obj\Debug\netcoreapp3.1\Remove Element in Array.genruntimeconfig.cache
