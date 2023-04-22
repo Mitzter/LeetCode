@@ -1,0 +1,13 @@
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\bin\Debug\netcoreapp3.1\First Occurrence in a String.exe
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\bin\Debug\netcoreapp3.1\First Occurrence in a String.deps.json
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\bin\Debug\netcoreapp3.1\First Occurrence in a String.runtimeconfig.json
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\bin\Debug\netcoreapp3.1\First Occurrence in a String.runtimeconfig.dev.json
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\bin\Debug\netcoreapp3.1\First Occurrence in a String.dll
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\bin\Debug\netcoreapp3.1\First Occurrence in a String.pdb
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\obj\Debug\netcoreapp3.1\First Occurrence in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\obj\Debug\netcoreapp3.1\First Occurrence in a String.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\obj\Debug\netcoreapp3.1\First Occurrence in a String.AssemblyInfo.cs
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\obj\Debug\netcoreapp3.1\First Occurrence in a String.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\obj\Debug\netcoreapp3.1\First Occurrence in a String.dll
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\obj\Debug\netcoreapp3.1\First Occurrence in a String.pdb
+C:\Users\my\source\repos\First Occurrence in a String\First Occurrence in a String\obj\Debug\netcoreapp3.1\First Occurrence in a String.genruntimeconfig.cache
