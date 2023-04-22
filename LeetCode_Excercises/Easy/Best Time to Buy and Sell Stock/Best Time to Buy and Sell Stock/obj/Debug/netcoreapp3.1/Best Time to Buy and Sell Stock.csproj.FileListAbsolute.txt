@@ -1,0 +1,14 @@
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.exe
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.deps.json
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.runtimeconfig.json
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.runtimeconfig.dev.json
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.dll
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\bin\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.pdb
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.csproj.AssemblyReference.cache
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.AssemblyInfo.cs
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.dll
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.pdb
+C:\Users\my\source\repos\Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock\obj\Debug\netcoreapp3.1\Best Time to Buy and Sell Stock.genruntimeconfig.cache
